@@ -1,4 +1,4 @@
-rsschol-cv
+rsschool-cv
 ---
 # **Anastasiya Skriptsova**
 
