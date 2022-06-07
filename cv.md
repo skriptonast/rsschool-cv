@@ -14,11 +14,11 @@ rsschol-cv
 ***
 
 ## **Skills**
-### * HTML5, CSS3
-### * JavaScript (Basic)
-### * Python
-### * Git
-### * Adobe Photoshop, Figma, CorelDRAW
+* ###  HTML5, CSS3
+* ###  JavaScript (Basic)
+* ###  Python
+* ###  Git
+* ###  Adobe Photoshop, Figma, CorelDRAW
 ***
 
 
