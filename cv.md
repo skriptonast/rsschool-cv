@@ -11,7 +11,7 @@ rsschol-cv
 
 
 ## **About me**
-#### I'm a communicative and kind human. Today I learn web programming by myself and I hope in future I'll become a real programmist.
+#### I'm a communicative and kind human. Today I learn web programming by myself and I hope in future I'll become a real programmer.
 
 
 ## **Skills**
