@@ -1,0 +1,208 @@
+*{
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth; 
+ }
+
+.container{
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.header{
+	max-width: 1440px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	background-color: #356565;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.logo-container{
+	margin-left: 20px;
+	color: #ffffff;
+}
+
+.logo{
+	font-family: 'Lato', serif;
+}
+
+.nav-list{	
+	list-style: none;
+	font-family: 'Lato', serif;
+	display: flex;
+}
+
+.nav{
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.nav-link{
+	padding: 0 20px;
+	line-height: 40px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.nav-link:hover{
+	text-decoration: underline;
+	transition: text-decoration 0.5s ease-in-out; 
+}
+
+.logo-container{
+	margin: 10px 0px 0px 100px;
+}
+
+.aside{
+	background-color: #356565;
+	/* border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px; */
+}
+
+.h2-name{
+	color: #ffffff;
+	font-family: 'Lora';
+	font-size: 20px;
+	margin: 20px 20px 10px 20px;
+}
+
+.h3-description{
+	color: #ffffff;
+	font-family: 'Lora';
+	margin: 0px 0px 40px 17px;
+	font-size: 16px;
+}
+
+.location-info{
+	margin: 10px;
+}
+
+.location,
+.contact{
+	margin-bottom: 50px;
+}
+
+.h3-aside{
+	margin: 10px;
+	font-variant: small-caps;
+	color: #ffffff;
+	font-family: 'Lora', sans-serif;
+}
+
+.location{
+	color: #ffffff;
+	font-family: 'Lora', sans-serif;
+}
+
+.contact-info{
+	color: #ffffff;
+	font-family: 'Lora', sans-serif;
+}
+
+.lang-item{
+	color: #ffffff;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Lora', sans-serif;
+}
+
+.main-container{
+	display: flex;
+	border-right: 4px solid #356565;
+}
+
+.github,
+.discord,
+.telegram{
+	padding: 5px 10px 5px 10px;
+}
+
+.main-info{
+	background-color: #ffffff;
+	color: #356565;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.section{
+	width: 60%;
+	margin: 0px 0px 0px 30px;
+}
+
+.section-title{
+	font-family: 'Lato';
+	font-size: 27px;
+	word-wrap: normal;
+}
+
+.section-info{
+	font-family: 'Lora';
+}
+
+.border-line{
+	min-height: 20px;
+	max-width: 700px;
+	border: 2px solid #356565;
+	border-radius: 3px;
+	padding: 0px;
+}
+
+.line{
+	min-height: 20px;
+	max-width: 150px;
+	background-color: #356565;
+	margin: 0px;
+	padding: 0px;
+}
+
+.c-line{
+	max-width: 150px;
+	margin-top: 1px;
+}
+
+.py-line{
+	max-width: 300px;
+	margin-top: 0.8px;
+}
+
+.html-line{
+	max-width: 120px;
+	margin-top: 0.9px;
+}
+
+.sql-line{
+	max-width: 300px;
+	margin-top: 0.8px;
+}
+
+.figma-line{
+	max-width: 300px;
+	margin-top: 0.8px;
+}
+
+.h1-year{
+	font-family: 'Bungee Outline';
+	color: #ffffff;
+	font-size: 50px;
+	margin: 0px;
+	padding: 0px 70px 0px 0px;
+}
+
+.github-link{
+	padding: 20px 0px 0px 70px;
+}
+
+.footer-container{
+	display: flex;
+	justify-content: space-between;
+	max-height: 150px;
+	padding: 20px 10px 10px 10px;
+	background-color: #356565;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
